@@ -1,4 +1,3 @@
-Here’s a concise and well-structured README for your project:
 
 ---
 
@@ -53,7 +52,7 @@ Traditional methods of data security often expose the presence of sensitive info
 ## How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/secure-data-hiding.git
+   git clone https://github.com/dK1925402/AICTE-CYBERSECURITY-INTERNSHIP-PROJECT.git
    ```
 2. Install the required dependencies:  
    ```bash
@@ -61,11 +60,11 @@ Traditional methods of data security often expose the presence of sensitive info
    ```
 3. Run the application:  
    ```bash
-   python main.py
+   python AICTE-Project.py
    ```
 
 ## GitHub Link  
-[Secure Data Hiding in Image Using Steganography](https://github.com/your-username/secure-data-hiding)  
+[Secure Data Hiding in Image Using Steganography](https://github.com/dK1925402/AICTE-CYBERSECURITY-INTERNSHIP-PROJECT.git)  
 
 --- 
 
