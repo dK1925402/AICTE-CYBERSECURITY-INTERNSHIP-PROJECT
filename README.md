@@ -67,5 +67,3 @@ Traditional methods of data security often expose the presence of sensitive info
 [Secure Data Hiding in Image Using Steganography](https://github.com/dK1925402/AICTE-CYBERSECURITY-INTERNSHIP-PROJECT.git)  
 
 --- 
-
-Feel free to adjust the content and add any additional information relevant to your project!
